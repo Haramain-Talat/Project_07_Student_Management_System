@@ -1,0 +1,21 @@
+{
+  "name": "07_talat_naz_student_management_system",
+  "version": "1.0.1",
+  "description": "I developed a comprehensive Student_Management_System.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Talat Naz",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.13.0"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  }
+}
